@@ -1,3 +1,4 @@
+/*MadLibs program that prompts the user to enter different types of words and prints the final story*/
 import java.util.Scanner;
 
 public class MadLibs {
