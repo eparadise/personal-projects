@@ -1,3 +1,4 @@
+/*Program that simulates the roll of a die, printing the number the die "lands" on*/
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
