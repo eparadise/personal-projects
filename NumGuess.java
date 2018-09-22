@@ -1,3 +1,6 @@
+/*Program that creates a guessing game where the computer picks a random number between 1 and 100 and the user has to guess the number.
+The program tells the user if their guess is too high or too low after every guess and prints the total number of guesses (and a
+statement about how good the guesser was) at the end. */
 import java.util.Random;
 import java.util.Scanner;
 public class NumGuess {
