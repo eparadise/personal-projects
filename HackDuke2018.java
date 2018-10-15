@@ -99,7 +99,6 @@ public class HackDuke2018 {
 				pmonth = mymonth;
 			}
 		}
-		System.out.println(month);
 		if ((year%4 == 0 && year%100 != 0) || year%400==0) {
 			leapYear = true;
 		}
