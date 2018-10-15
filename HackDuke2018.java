@@ -1,10 +1,11 @@
 /*This code was created by Eliza Paradise in collaboration with Katelyn Chang, Ana Martinez, and Jonathan Pittman as part 
-of a submission to the HackDuke2018: Code for Good Health Track. This algorithm works to track and predict periods. */
+of a submission to the HackDuke2018: Code for Good Health Track. This algorithm works to track and predict periods. 
+Visit gowithyourflow.net to see a prototype of the final product (still in progress!) */
 
 import java.util.ArrayList;
 import java.util.TreeMap;
 
-public class tracker {
+public class HackDuke2018 {
 	public static int[] predict(TreeMap<String, ArrayList<Integer>> pastDates, String mostRecent) {
 		TreeMap<String, Integer> numdays = new TreeMap<>();
 		numdays.put("January", 31);
